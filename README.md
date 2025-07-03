@@ -24,7 +24,8 @@
 
 ## 🖼️ Interface Preview
 
-> *(Add a screenshot if desired and link to it like `![UI](docs/screenshot.png)`)*
+![image](https://github.com/user-attachments/assets/d4ca10ce-a32b-4c05-8301-0fc8582f9a7e)
+
 
 ---
 
